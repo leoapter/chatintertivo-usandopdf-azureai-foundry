@@ -1,0 +1,1 @@
+# chatintertivo-usandopdf-azureai-foundry
